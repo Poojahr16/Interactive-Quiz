@@ -14,6 +14,7 @@ The quiz displays multiple-choice questions, accepts user responses, calculates 
 HTML (Structure)
 CSS (Styling)
 JavaScript (Logic & Interactivity)
+---
 ✨ Features
 Displays quiz introduction
 Shows multiple-choice questions
@@ -23,14 +24,16 @@ Score calculation
 Result message display (Excellent / Good / Try Again)
 Restart Quiz feature
 Student Name & Roll No displayed permanently on screen
+---
 ⚙️ How to Run the Project
 1. Download or clone the project
+   
 git clone https://poojahr16.github.io/Interactive-Quiz/
 
-2. Open the project folder
+3. Open the project folder
 cd interactive_quiz
 
-3. Run the project
+4. Run the project
 Double-click index.html
 OR
 Right-click → Open with → Chrome / Edge / Firefox
