@@ -1,9 +1,9 @@
 👩‍🎓 Student Details
-Name: Pooja
-Roll No: 2401010136
-Course: WEB PROGRAMMING WITH PYTHON AND JAVASCRIPT LAB
-Program: BTECH CSE SECTION-C
-Experiment No: 3
+- Name: Pooja
+- Roll No: 2401010136
+- Course: WEB PROGRAMMING WITH PYTHON AND JAVASCRIPT LAB
+- Program: BTECH CSE SECTION-C
+- Experiment No: 3
 
 📌 Objective
 To design and develop an interactive quiz application using HTML, CSS, and JavaScript.
@@ -25,7 +25,7 @@ Restart Quiz feature
 Student Name & Roll No displayed permanently on screen
 ⚙️ How to Run the Project
 1. Download or clone the project
-git clone https://priyanshu-krs.github.io/INTERACTIVE_QUIZ/
+git clone https://poojahr16.github.io/Interactive-Quiz/
 
 2. Open the project folder
 cd interactive_quiz
