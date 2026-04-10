@@ -14,6 +14,7 @@ The quiz displays multiple-choice questions, accepts user responses, calculates 
 HTML (Structure)
 CSS (Styling)
 JavaScript (Logic & Interactivity)
+
 ---
 ✨ Features
 Displays quiz introduction
@@ -24,6 +25,7 @@ Score calculation
 Result message display (Excellent / Good / Try Again)
 Restart Quiz feature
 Student Name & Roll No displayed permanently on screen
+
 ---
 ⚙️ How to Run the Project
 1. Download or clone the project
